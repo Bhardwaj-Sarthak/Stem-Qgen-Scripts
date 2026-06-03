@@ -1,0 +1,14 @@
+numpy
+pandas
+python-math
+scikit-learn
+huggingface-hub
+sentence-transformers 
+datasets
+matplotlib
+llama-index
+llama-index-embeddings-huggingface
+accelerate
+smolagents[transformers]
+gradio[mcp]
+bitsandbytes
