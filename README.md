@@ -319,6 +319,3 @@ or strengthen the output-format instructions in `stem_prompt_templates.py`.
 - RAG and tool-based pipelines require the MCP endpoint to be reachable.
 - The `default` pipeline still initializes the MCP client in the current script, so the endpoint should be available even if you only generate with `default`.
 
-## License
-
-Add a license file if you plan to share or reuse the repository publicly.
